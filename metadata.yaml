@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '9624'
     url: http://www.gutenberg.org/2009/agents/9624
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20949#L-art-et-science-de-rhethorique-pour-faire-rigmes-et-ballades
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2007-03-31'
 gutenberg_type: Text
